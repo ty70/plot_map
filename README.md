@@ -16,7 +16,7 @@
 * 以下のPythonライブラリのインストールが必要です：
 
   ```bash
-  pip install pandas folium jageocoder tqdm
+  pip install pandas folium jageocoder
   ```
 
 ### jageocoderの辞書インストール
