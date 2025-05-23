@@ -55,6 +55,6 @@ name,rating,user_ratings_total,phone,address,url
 * 指定された[HTMLファイル](./output/sample.html)に、各店舗の位置を示すインタラクティブなマップを出力します。
 * マーカーをクリックすると、店舗名・評価・レビュー数・電話番号がポップアップ表示されます。
 
-ライセンス
+## ライセンス
 
 このプロジェクトは [MITライセンス](.LICENSE) の下で公開されています。
